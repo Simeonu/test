@@ -1,0 +1,36 @@
+/* #root {
+  max-width: 1280px;
+
+} */
+
+.parentdiv{
+  display: flex;
+  margin: 0;
+  padding: 0;
+
+}
+
+.left{
+  height: 100vh;
+  background-color: blanchedalmond;
+}
+
+.right{
+  height: 100vh;
+}
+
+.header{
+  background-color: blueviolet;
+  width: 100%;
+  margin: 0;
+  height: 50px;
+}
+
+.linkgroup{
+  display: flex;
+  align-items: center;
+}
+
+.inner_left{
+  width: 120px;
+}
